@@ -1,7 +1,7 @@
 
 <h1>Joseph (Joey) Diaz</h1>
 
-<img src = "littleMe.jpg" alt = "A Favorite Picture of Me as a Kid" width = "350">
+<img src = "littleMeWii.jpg" alt = "A Favorite Picture of Me as a Kid" width = "350">
 <body>Hiker. Hobbyist Coding. Engineering.</body>
 
 <hr>
