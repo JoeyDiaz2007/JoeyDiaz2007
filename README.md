@@ -7,7 +7,7 @@
 <hr>
 
 <h2>Now</h2>
-<hr>
+
 <body>Bachelor of Science in Mechanical Engineering at UAF
 <br>
   Robotics integrated into Energy Systems
