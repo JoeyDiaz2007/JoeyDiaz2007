@@ -1,6 +1,8 @@
 
 <h1>Joseph Diaz</h1>
 
+<hr>
+
 <h2>Now</h2>
 
 <body>Bachelor of Science in Mechanical Engineering at the University of Alaska Fairbanks
