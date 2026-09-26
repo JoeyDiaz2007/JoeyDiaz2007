@@ -1,12 +1,13 @@
 
-<h1>Joseph (Joey) Diaz</h1>
+<h1>Joseph Diaz</h1>
 
 <hr>
 
 <h2>Now</h2>
 
-<body>Bachelor of Science in Mechanical Engineering at UAF
+<body>Bachelor of Science in Mechanical Engineering at the University of Alaska Fairbanks
 <br>
-  Robotics integrated into Energy Systems
+  Experience in energy systems, project management, system engineering, and robotics.
+  Robotics integrated into Energy Systems is my passion.
 </body>
 <hr>
